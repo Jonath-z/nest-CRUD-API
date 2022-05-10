@@ -5,9 +5,9 @@
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 [circleci-url]: https://circleci.com/gh/nestjs/nest
 
- # Nest CRUP API
+ # Nest CRUD API
 
-This is a CRUP API made with Nest
+This is a CRUD API made with Nest
 
 ### Technologies
 
